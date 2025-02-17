@@ -70,3 +70,13 @@ If you find yourself coming up to the proposal deadline and you're not sure what
 3. _Advertise a Course_. Think about the classes you've taken that are under-appreciated, maybe even at risk of being under-enrolled. Create *either* an 8.5x11" print flier *or* a 16:9 ratio digital poster to be distributed around the hallways, bulletin boards, and/or tables of the university, alerting people to the awesomeness that would ensue if they enroll in that course. (You've probably seen some professors' attempts at these; they're all over the English department, at least, and on the screens in the G-level elevator lobby of the Cathedral.) Include the course title and a brief description; you can skip the date and time, or make one up.
 
 And if your parachute is malfunctioning (e.g. you need even more specific direction), just let me know. We can probably figure something out in [office hours](http://benmiller314.youcanbook.me).
+For my visual argument, I will create a visual argument highlighting the human role in forest fires and the broader consequences of environmental negligence. My image will juxtapose natural beauty with destruction, making an argument about how human actions fuel these disasters.
+The central image will be a split picture: on one side, a lush, green forest untouched by fire, and on the other, a scorched, burning landscape. This stark contrast will emphasize what is at stake. I plan to overlay silhouettes of human figures or industrial symbols (such as a cigarette, a match, or factory smoke) on the burning side to suggest causes of these fires. My image argues that forest fires are not just natural disasters but are often the direct or indirect result of human choices. Whether through climate change, negligence, or deforestation, people play a role in worsening these disasters.
+I will include a caption as well maybe something like "We ignite the flames. We suffer the consequences." This text will serve as a call to action, urging viewers to recognize their role in preventing wildfires and supporting environmental protection.
+Images I will need:
+|Image of bright green forest|
+|Image of burned forest|
+|Image of cigarette|
+|Image of factory|
+|Image of a match|
+All will, hopefully, be found on unsplash
