@@ -1,3 +1,6 @@
+For my visual argument, I decided to highlight the human role in forest fires and the devastating consequences of this negligence. My image juxtaposes beauty and destruction, making a clear argument about how human actions fuel these disasters. The central image is a split picture with an intense contrast—on the left side, a lush, green forest, and on the right, a scorched, burning landscape. I used text and symbols to reinforce my message, ensuring that viewers can immediately grasp the argument.
+
+
 # Project 2: Visual Argument / Rhetorical Collage
 
 Your task in this unit is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an argument to make. In assigning this, I have two main goals for you: (1) to learn how to ethically obtain images and edit them using digital tools, and (2) to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
